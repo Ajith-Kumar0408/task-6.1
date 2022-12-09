@@ -1,3 +1,23 @@
+/*movie*/
+
+class movie{
+  constructor(title,studio,rating){
+    this.title=title;
+    this.studio=studio;
+    this.rating=rating;
+  }
+
+}
+var m1={
+  title:"Casino Royale",
+  studio:"Eon productions",
+  rating:"PG13"
+}
+console.log(m1)
+
+
+
+
 /*calculate the uber price*/
 
 function counter(distance) {
