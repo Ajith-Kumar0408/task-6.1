@@ -8,7 +8,7 @@ class movie{
   }
 
 }
-var m1={
+Let m1={
   title:"Casino Royale",
   studio:"Eon productions",
   rating:"PG13"
@@ -39,7 +39,7 @@ function counter(distance) {
 
   /*person to hold all the details*/
 
-  var person1 = {
+  Let person1 = {
     name : Ajith,
     age : 22,
     class : guvi,
